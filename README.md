@@ -19,10 +19,10 @@
 
 
 <!-- Intro  -->
-<h2 align="center">
+<h1 align="center">
         <samp>&gt; Hey There!, I am Ammar
         </samp>
-</h2>
+</h1>
 
 
 <p align="center"> 
@@ -69,12 +69,6 @@
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
-<br/>
-
-
-<p align="left">
-  <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/>
-</p>
 
 <br/>
 <hr/>
