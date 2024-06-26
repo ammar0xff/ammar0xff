@@ -1,20 +1,16 @@
-<!-- Your title -->
-## Hi, I'm Murillo Comino, a Developer 🚀 from Brazil.
+
+<h1>Hi, I'm Murillo Comino, a Developer 🚀 from Brazil.</h1> 
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
 <p width="100%">
-  <img src="https://img.shields.io/badge/-Github-000?style=flat&amp;logo=Github&amp;logoColor=white" alt="Github">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&amp;labelColor=c13584&amp;logo=instagram&amp;logoColor=white" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&amp;logo=Microsoft-Outlook&amp;logoColor=white" alt="Outlook">
-    
-  <img align="right" alt="HitCount" src="https://img.shields.io/github/followers/ammar0xff?style=flat&logoColor=blue&labelColor=gray&color=blue"/>
-  <img align="right" alt="visitors" src="https://komarev.com/ghpvc/?username=ammar0xff"/>
-  <img align="right" alt="ViewCount" src="https://img.shields.io/github/stars/ammar0xff?style=flat&labelColor=gray&color=blue"/>
-    
+  <a href="https://github.com/ammar0xff/"><img src="https://img.shields.io/badge/-Github-000?style=flat&amp;logo=Github&amp;logoColor=white" alt="Github"></a>
+  <a href="https://www.linkedin.com/in/ammar0xf/" ><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" alt="Linkedin"></a>
+  <a href=""><img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&amp;labelColor=c13584&amp;logo=instagram&amp;logoColor=white" alt="Instagram"></a>
+  <a href="ammar0xf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white" alt="Gmail"></a>
+  <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&amp;logo=Microsoft-Outlook&amp;logoColor=white" alt="Outlook"></a>
+  https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white
 </p>
 
 
@@ -61,6 +57,11 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white">
 </p>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ammar0xff&theme=radical" alt="GitHub Contribution" aligen="center" width="100%" hight="100px" />
+    <p align="center" width="100%">
+        <img alt="HitCount" src="https://img.shields.io/github/followers/ammar0xff?style=flat&logoColor=blue&labelColor=gray&color=blue"/>
+        <img alt="visitors" src="https://komarev.com/ghpvc/?username=ammar0xff"/>
+        <img alt="ViewCount" src="https://img.shields.io/github/stars/ammar0xff?style=flat&labelColor=gray&color=blue"/>
+    </p>
 
 ---
 <p align="center">
@@ -75,13 +76,13 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 ---
 
 <!-- Its main projects -->
-<p align="center">
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=handle-path-oz" />
-  </a>
-  <a href="https://github.com/onimur/circleci-github-changelog-generator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=circleci-github-changelog-generator" />
-  </a>
-</p>
+    <p align="center">
+      <a href="https://github.com/onimur/handle-path-oz">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=handle-path-oz" />
+      </a>
+      <a href="https://github.com/onimur/circleci-github-changelog-generator">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=circleci-github-changelog-generator" />
+      </a>
+    </p>
 
 
