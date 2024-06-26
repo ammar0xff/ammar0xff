@@ -7,10 +7,8 @@ You can use the website to generate badges: https://shields.io/
 <p width="100%">
   <a href="https://github.com/ammar0xff/"><img src="https://img.shields.io/badge/-Github-000?style=flat&amp;logo=Github&amp;logoColor=white" alt="Github"></a>
   <a href="https://www.linkedin.com/in/ammar0xf/" ><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" alt="Linkedin"></a>
-  <a href=""><img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&amp;labelColor=c13584&amp;logo=instagram&amp;logoColor=white" alt="Instagram"></a>
-  <a href="ammar0xf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white" alt="Gmail"></a>
-  <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&amp;logo=Microsoft-Outlook&amp;logoColor=white" alt="Outlook"></a>
-  https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white
+  <a href="mailto:ammar0xf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white" alt="Gmail"></a>
+  <a href="https://www.facebook.com/ammar0xff/" ><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="facebook"></a>
 </p>
 
 
@@ -18,29 +16,21 @@ You can use the website to generate badges: https://shields.io/
 
 
 <!-- Talking about you -->
-**Talking about Personal Stuffs:**
+## **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
-- 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI); 
-- 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
-- 🤔 I’m looking for help with Design Pattern 😭;
+- 👨🏽‍💻 I’m currently a high school student;
+- 🌱 I’m currently learning Bug Bounty hunting and many other stuff; 
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in civil engineering;
-- 📫 How to reach me: murillo_comino@hotmail.com;
+- ⚡️ Fun-Fact: I'm playing MMA;
+- 📫 How to reach me: ammar0xff@gmail.com;
 
-**Languages and Tools:** 
+## **Languages and Tools:** 
 
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
 <p>
   
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
 <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -56,16 +46,20 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important">
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white">
 </p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ammar0xff&theme=radical" alt="GitHub Contribution" aligen="center" width="100%" hight="100px" />
-    <p align="center" width="100%">
+
+
+----
+
+
+  <p align="center" width="100%">
         <img alt="HitCount" src="https://img.shields.io/github/followers/ammar0xff?style=flat&logoColor=blue&labelColor=gray&color=blue"/>
         <img alt="visitors" src="https://komarev.com/ghpvc/?username=ammar0xff"/>
         <img alt="ViewCount" src="https://img.shields.io/github/stars/ammar0xff?style=flat&labelColor=gray&color=blue"/>
     </p>
 
----
-<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ammar0xff&theme=radical" alt="GitHub Contribution" aligen="center" width="100%" hight="100px" />
 
+<p align="center">
   <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ammar0xff&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ammar0xff&theme=radical&background=0D1117&hide_border=true"/>
 </p>
@@ -73,16 +67,14 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 
 
----
 
-<!-- Its main projects -->
-    <p align="center">
+
+<!-- Its main projects 
+<p align="center">
       <a href="https://github.com/onimur/handle-path-oz">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=handle-path-oz" />
       </a>
       <a href="https://github.com/onimur/circleci-github-changelog-generator">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=circleci-github-changelog-generator" />
       </a>
-    </p>
-
-
+    </p> -->
