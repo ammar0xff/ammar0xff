@@ -19,7 +19,7 @@ You can use the website to generate badges: https://shields.io/
 ## **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 - 👨🏽‍💻 I’m currently a high school student;
 - 🌱 I’m currently learning Bug Bounty hunting and many other stuff; 
@@ -57,13 +57,12 @@ You can use the website to generate badges: https://shields.io/
         <img alt="ViewCount" src="https://img.shields.io/github/stars/ammar0xff?style=flat&labelColor=gray&color=blue"/>
     </p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ammar0xff&theme=radical" alt="GitHub Contribution" aligen="center" width="100%" hight="100px" />
+<a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ammar0xff&theme=radical" alt="GitHub Contribution" aligen="center" width="100%" hight="100px" /></a>
 
 <p align="center">
-  <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ammar0xff&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ammar0xff&theme=radical&background=0D1117&hide_border=true"/>
+  <a href="#"><img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ammar0xff&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" /></a>
+  <a href="#"><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ammar0xff&theme=radical&background=0D1117&hide_border=true"/></a>
 </p>
-
 
 
 
