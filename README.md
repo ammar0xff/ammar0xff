@@ -64,11 +64,6 @@ You can use the website to generate badges: https://shields.io/
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ammar0xff&theme=radical&background=0D1117&hide_border=true"/>
 </p>
 
-
-
-
-
-
 <!-- Its main projects 
 <p align="center">
       <a href="https://github.com/onimur/handle-path-oz">
