@@ -19,7 +19,6 @@ You can use the website to generate badges: https://shields.io/
 ## **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" />
 
 - 👨🏽‍💻 I’m currently a high school student;
 - 🌱 I’m currently learning Bug Bounty hunting and many other stuff; 
