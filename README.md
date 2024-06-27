@@ -12,6 +12,7 @@ You can use the website to generate badges: https://shields.io/
 </p>
 
 
+<a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ammar0xff&theme=radical" alt="GitHub Contribution" aligen="center" width="100%" hight="100px" /></a>
 
 
 
@@ -56,7 +57,6 @@ You can use the website to generate badges: https://shields.io/
         <img alt="ViewCount" src="https://img.shields.io/github/stars/ammar0xff?style=flat&labelColor=gray&color=blue"/>
     </p>
 
-<a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ammar0xff&theme=radical" alt="GitHub Contribution" aligen="center" width="100%" hight="100px" /></a>
 
 <p align="center">
   <a href="#"><img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ammar0xff&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" /></a>
