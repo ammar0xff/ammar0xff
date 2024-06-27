@@ -9,6 +9,8 @@ You can use the website to generate badges: https://shields.io/
   <a href="https://www.linkedin.com/in/ammar0xf/" ><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" alt="Linkedin"></a>
   <a href="mailto:ammar0xf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white" alt="Gmail"></a>
   <a href="https://www.facebook.com/ammar0xff/" ><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="facebook"></a>
+    <a href="https://ammar0xff.t.me/" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white" alt="facebook"></a>
+
 </p>
 
 
