@@ -24,7 +24,6 @@
 - 👨🏽‍💻 I’m currently a high school student;
 - 🌱 I’m currently learning Bug Bounty hunting and many other stuff;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I'm playing MMA;
 - 📫 How to reach me: ammar0xff@gmail.com;
 
 
