@@ -21,7 +21,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammar0xff&layout=compact&theme=radical&hide_border=true">
 
 
-- 👨🏽‍💻 I’m currently a high school student;
+- 👨🏽‍💻 I’m currently a student;
 - 🌱 I’m currently learning Bug Bounty hunting and many other stuff;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: ammar0xff@gmail.com;
